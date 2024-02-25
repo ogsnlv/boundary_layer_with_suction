@@ -13,4 +13,6 @@ $$ u \rightarrow U_\infty \ \text{at} \  y \rightarrow \infty$$
 
 where $V_0(x)$ represents the suction/injection at the plate surface. 
 
+The calculations are performed in C#, whereas the plots are created with Python and **matplotlib**.
+
 
