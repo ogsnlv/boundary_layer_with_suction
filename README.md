@@ -6,8 +6,10 @@ The govergning equations are
 \begin{equation}
 
 u\frac{\partial u}{\partial x} + v\frac{\partial u}{\partial y}=\nu \frac{\partial^2 u}{\partial^2 y}, \\
+\end{equation}
+
 $$\frac{\partial u}{\partial x} + \frac{\partial v}{\partial y}=0;
-\end{gathered}
+
 
 with boundary conditions:
 
