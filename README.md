@@ -8,7 +8,7 @@ $$\frac{\partial u}{\partial x} + \frac{\partial v}{\partial y}=0;$$
 
 with boundary conditions:
 
-$$u = 0, \ v=V_0(x) \ \text{at} \ y=0;$$
+$$u = 0, \ v=V_0(x) \ \text{at} \ y=0;
 $$ u \rightarrow U_\infty \ \text{at} \  y \rightarrow \infty$$
 
 where $V_0(x)$ represents the suction/injection at the plate surface. 
