@@ -1,0 +1,5 @@
+U_INF = 1
+U_0 = 0
+START = 0
+END = 6
+EPS = 1E-5
